@@ -24,7 +24,7 @@
 
 To successfully run this project you have to do the following steps:
 
-	Step 1. Run the "ARIMA" Jupyter Notebook fil here online or on your PC/Notebook.
+	Step 1. Run the "ARIMA" Jupyter Notebook file here online or on your PC/Notebook.
 
 	Step 2. Import all required libraries and data frames from the Sub-section "Importing packages and data set".
 
